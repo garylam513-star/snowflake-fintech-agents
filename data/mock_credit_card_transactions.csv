@@ -1,0 +1,501 @@
+TRANSACTION_ID,TIMESTAMP,CARD_NUMBER,CARD_TYPE,HOLDER_NAME,MERCHANT_NAME,MERCHANT_CATEGORY,AMOUNT,CURRENCY,IS_FRAUD
+1000000000,2026-10-11 17:35:10,4592369897731183,AMEX,Tiffany Atkins,Jones Ltd Store,Retail,63.79,EUR,0
+1000000001,2026-10-11 17:35:40,3510186121230761,Discover,Dalton Barnett,Hernandez Ltd LLC,Travel,136.18,EUR,0
+1000000002,2026-10-11 17:37:04,4822172527634054,Discover,Barbara Prince,Melton-Short Inc,Retail,17.92,EUR,0
+1000000003,2026-10-11 17:35:52,4947602111292050031,AMEX,Steven Romero,Washington Inc Store,Gas,41.94,CAD,0
+1000000004,2026-10-11 17:37:54,4832900844565974247,Visa,Maria Turner,Fischer-Irwin Inc,Gas,130.69,GBP,0
+1000000005,2026-10-11 17:36:40,4897833880589157,AMEX,Samuel Silva,Roth-Marks Inc,Entertainment,4842.07,GBP,1
+1000000006,2026-10-11 17:40:16,4426028587019669636,AMEX,Sharon Henderson,Allen-Moses Inc,Entertainment,34.22,GBP,0
+1000000007,2026-10-11 17:40:18,3581322549086717,Mastercard,Gregory Mills,Chang-Lopez Inc,Retail,98.59,USD,0
+1000000008,2026-10-11 17:40:46,379627894279069,AMEX,Michael Christensen,Garcia-Wall LLC,Travel,75.1,USD,0
+1000000009,2026-10-11 17:42:13,4634386702461779941,Discover,Vicki Brown,Johnson LLC LLC,Groceries,15.7,CAD,0
+1000000010,2026-10-11 17:43:00,4327691610193,Visa,Tina Miller,Summers Group Inc,Gas,20.17,GBP,0
+1000000011,2026-10-11 17:42:19,4104888540969248,Mastercard,Brooke Drake,Potter Group LLC,Groceries,3537.31,USD,1
+1000000012,2026-10-11 17:44:58,6011361388455982,Visa,Sarah Knox,"Werner, Alvarez and Miller Store",Gas,111.06,USD,0
+1000000013,2026-10-11 17:43:37,2227047040396008,Discover,Leonard King,"Ross, Castillo and Villegas Store",Groceries,36.74,USD,0
+1000000014,2026-10-11 17:45:12,4633019250094742,AMEX,Michele Hurst,"Garza, Page and Garcia Inc",Gas,1981.81,CAD,1
+1000000015,2026-10-11 17:38:25,4790257588154,Visa,Eric Lambert,Jones and Sons LLC,Retail,75.42,CAD,0
+1000000016,2026-10-11 17:42:38,3572949916256316,Visa,Ashley Murray,Wade-Rubio Store,Travel,78.31,EUR,0
+1000000017,2026-10-11 17:49:03,4296749212275318381,Discover,Mrs. Sarah Gordon,"Brown, Barr and Hall Inc",Gas,22.02,GBP,0
+1000000018,2026-10-11 17:50:10,4255293539740109383,AMEX,Michelle Malone,Bradford-Garcia Store,Groceries,34.55,GBP,0
+1000000019,2026-10-11 17:40:14,180024529018329,Mastercard,Kim Jones,"Peterson, Ford and Bishop Store",Travel,97.18,EUR,0
+1000000020,2026-10-11 17:44:30,3553012241198381,Mastercard,Angela Carrillo,Gray and Sons Store,Retail,145.51,CAD,0
+1000000021,2026-10-11 17:53:01,3599219006080292,AMEX,Kimberly Cooper,"Watkins, Gonzalez and Pena LLC",Travel,133.82,CAD,0
+1000000022,2026-10-11 17:40:18,346484638299387,AMEX,Johnny Roth,"Tanner, Gross and Vang LLC",Entertainment,10.84,GBP,0
+1000000023,2026-10-11 17:49:44,3594724941488075,Discover,Jamie Holloway,Green-Thomas LLC,Entertainment,10.64,CAD,0
+1000000024,2026-10-11 17:42:46,213125903274452,Discover,Mark Clark,"Phillips, Wise and Washington LLC",Gas,108.53,USD,0
+1000000025,2026-10-11 17:40:10,4157032052980295,Visa,Sheri Combs,Casey-Steele Store,Travel,87.05,EUR,0
+1000000026,2026-10-11 17:42:32,4584333442441723849,AMEX,Bobby Sanchez,Mitchell-Cox Inc,Travel,102.97,USD,0
+1000000027,2026-10-11 17:57:40,4134331887466,Mastercard,Angela Rush,Hurst Ltd Inc,Travel,116.46,GBP,0
+1000000028,2026-10-11 18:01:46,4775251222939799,Mastercard,Kayla Davis,"Brown, Mejia and Adams Inc",Retail,40.32,CAD,0
+1000000029,2026-10-11 17:44:21,503808061777,Mastercard,Jeremy Everett,Wright-Schwartz Inc,Gas,81.07,EUR,0
+1000000030,2026-10-11 17:48:10,6011436653737106,Discover,Haley Anderson,Rollins-Mcclure Store,Groceries,107.13,CAD,0
+1000000031,2026-10-11 17:53:15,3566135187994078,Discover,Brandi Rodriguez,Figueroa-Cardenas LLC,Gas,18.17,GBP,0
+1000000032,2026-10-11 18:02:22,4858753018399047,Discover,Benjamin Rice,"Young, Lewis and Freeman LLC",Retail,113.78,EUR,0
+1000000033,2026-10-11 17:54:25,377198985664827,Mastercard,Drew Smith,"Rice, Thomas and Patrick LLC",Groceries,86.82,USD,0
+1000000034,2026-10-11 17:43:06,344371735796781,Visa,Olivia Nichols,Thompson LLC Store,Travel,140.42,GBP,0
+1000000035,2026-10-11 17:57:55,5520448435462800,Discover,Christopher Carter,Greene-Ross Inc,Entertainment,105.68,CAD,0
+1000000036,2026-10-11 17:42:58,3508170574502649,Mastercard,Larry Roberson,Ramsey and Sons Store,Entertainment,37.2,USD,0
+1000000037,2026-10-11 18:06:00,4429201617285944,AMEX,Kevin Townsend,Watkins-Hawkins Store,Entertainment,145.07,CAD,0
+1000000038,2026-10-11 18:07:28,348385297251494,Discover,Kaitlin Hall,Huff LLC LLC,Groceries,110.7,USD,0
+1000000039,2026-10-11 18:02:28,4711539148161589242,AMEX,Andrew Morrison,Murray Inc LLC,Travel,13.59,EUR,0
+1000000040,2026-10-11 17:59:10,30461329134371,Discover,Rebecca Wilson,Rodriguez PLC LLC,Groceries,5.9,CAD,0
+1000000041,2026-10-11 18:02:30,213186394420350,Mastercard,Melvin Chen,Skinner-Green LLC,Retail,91.21,CAD,0
+1000000042,2026-10-11 17:53:22,4976813577464,AMEX,Joseph Harrell,Hahn-Wilson LLC,Entertainment,71.33,USD,0
+1000000043,2026-10-11 17:50:13,4782679275346,Discover,Susan Perez,Middleton-Wallace Inc,Retail,2126.29,EUR,1
+1000000044,2026-10-11 17:55:42,341586227190523,Discover,Jonathan Jackson,Hughes Inc Store,Retail,22.76,USD,0
+1000000045,2026-10-11 18:01:25,4189964494074000,AMEX,Nicholas Brooks,Thompson and Sons Inc,Retail,115.85,GBP,0
+1000000046,2026-10-11 18:19:38,566443258074,Visa,Carla Garcia,Chavez PLC Inc,Entertainment,52.23,USD,0
+1000000047,2026-10-11 17:50:50,6513585362152107,AMEX,Hannah Charles,"Alvarez, Nelson and Chavez Store",Gas,135.04,GBP,0
+1000000048,2026-10-11 17:58:22,3560543711420690,Discover,Madeline Willis,"Cooke, Miller and Coleman Inc",Groceries,133.42,CAD,0
+1000000049,2026-10-11 17:49:52,5402266288221104,Mastercard,Travis Rodriguez,Harvey LLC Store,Travel,23.07,GBP,0
+1000000050,2026-10-11 18:02:40,3584709266526510,Mastercard,Tracy Jackson,Richardson-Hernandez LLC,Retail,99.9,GBP,0
+1000000051,2026-10-11 17:47:55,630445300472,AMEX,Kevin Heath,Vazquez-Woods Inc,Retail,38.47,EUR,0
+1000000052,2026-10-11 18:19:22,4245821832851,Visa,Lisa Jones,"Tran, Peterson and Henry LLC",Groceries,107.08,GBP,0
+1000000053,2026-10-11 17:51:04,573335150039,Discover,Lynn Singh,"Swanson, Jackson and Jones Inc",Retail,50.5,USD,0
+1000000054,2026-10-11 17:50:28,213104485002771,AMEX,Kristin Jackson,"Smith, Monroe and Valdez Store",Retail,38.39,USD,0
+1000000055,2026-10-11 18:21:00,371970697064496,Visa,Jacob Molina,Lewis-Rodgers Store,Entertainment,130.26,CAD,0
+1000000056,2026-10-11 18:06:54,2298706064943292,AMEX,Joseph Mays,Moody-Garcia Inc,Groceries,63.77,GBP,0
+1000000057,2026-10-11 17:52:16,4366797266302,Visa,Steven Webb,"Duncan, Perkins and James LLC",Entertainment,114.4,GBP,0
+1000000058,2026-10-11 17:47:44,4326138284501266,AMEX,Gina Bradshaw,Fisher-Woodward Inc,Groceries,58.76,CAD,0
+1000000059,2026-10-11 17:49:55,4709561102478,Visa,Russell Sampson,"Walter, Suarez and Holland Inc",Retail,114.4,GBP,0
+1000000060,2026-10-11 18:11:10,6011106833499014,Visa,Brian Wilson,"Chapman, Lynch and Cooke LLC",Entertainment,41.57,EUR,0
+1000000061,2026-10-11 18:31:05,3565986912018257,Visa,Thomas Cervantes,Griffith-Williams Store,Retail,119.44,CAD,0
+1000000062,2026-10-11 18:15:28,4093545104920,Mastercard,Samantha Byrd,"Yates, Little and Ward LLC",Travel,66.13,USD,0
+1000000063,2026-10-11 18:21:22,3580084451904938,Mastercard,Virginia Bowman,"Moore, Miller and Carpenter Inc",Groceries,35.25,CAD,0
+1000000064,2026-10-11 17:52:14,4193085286872239,Discover,Thomas Ortega,Brown-Rivera Inc,Travel,100.32,USD,0
+1000000065,2026-10-11 18:28:15,6011210996918230,Visa,Jennifer Harris,"Wilson, Hicks and Orozco LLC",Travel,16.15,EUR,0
+1000000066,2026-10-11 18:18:04,4645016155075178,AMEX,Sara Townsend,"Chambers, Pittman and Kelly Store",Retail,83.94,USD,0
+1000000067,2026-10-11 18:00:51,4302091446841743751,Discover,Joseph Fowler,Blankenship-Mayer Inc,Retail,141.22,CAD,0
+1000000068,2026-10-11 18:39:46,3585590899618075,Mastercard,Robert Robinson,Morgan Ltd Inc,Retail,108.36,GBP,0
+1000000069,2026-10-11 18:29:13,4530247208780,Discover,Louis Meyers,Wilson-Gonzales LLC,Entertainment,7.69,EUR,0
+1000000070,2026-10-11 18:03:10,6011596330009961,Mastercard,John Montoya,Stein-May Store,Retail,5.82,USD,0
+1000000071,2026-10-11 18:01:12,180027634107259,AMEX,Brian Farmer,"Day, Collins and Fitzgerald LLC",Groceries,66.72,USD,0
+1000000072,2026-10-11 18:44:46,4243083902140,Discover,Sydney Norton,Martinez-Gomez Inc,Entertainment,148.35,GBP,0
+1000000073,2026-10-11 18:37:13,2268395411373175,Discover,Cynthia Porter,Cochran-Glass LLC,Groceries,28.0,GBP,0
+1000000074,2026-10-11 18:39:18,3550206137155694,Visa,Nicole Hill,Mason PLC LLC,Groceries,49.24,USD,0
+1000000075,2026-10-11 18:46:25,5320506266258563,Discover,Christina Trevino,"Bean, Martinez and Jackson Inc",Groceries,35.46,CAD,0
+1000000076,2026-10-11 18:28:22,4947677414951072,Visa,John Martinez,"Wright, Barber and Carter Inc",Groceries,4653.37,CAD,1
+1000000077,2026-10-11 18:31:38,4957598806207138,Mastercard,Antonio Reed Jr.,Graham-Barr Inc,Entertainment,57.79,CAD,0
+1000000078,2026-10-11 17:52:04,30438381447248,Mastercard,Emma Jones,Lin-Williams Store,Entertainment,114.82,USD,0
+1000000079,2026-10-11 18:05:27,345264025371754,Visa,Susan Hawkins,Booth-Moore Store,Entertainment,75.98,USD,0
+1000000080,2026-10-11 18:28:30,4453964961954974386,AMEX,Joann Mason,Miller-Burns Inc,Gas,127.69,CAD,0
+1000000081,2026-10-11 18:35:55,6011722202590694,Mastercard,Deanna White,Davis and Sons Inc,Groceries,96.98,CAD,0
+1000000082,2026-10-11 18:54:26,4371869988742335,Mastercard,Jason Fitzgerald,"Merritt, Hill and Smith LLC",Entertainment,35.31,EUR,0
+1000000083,2026-10-11 18:05:36,3514163729650480,Discover,Angela Parker,"Keller, Roman and Wade Inc",Groceries,111.49,GBP,0
+1000000084,2026-10-11 18:12:58,30154473675287,AMEX,Meghan Rivera,Collins-Brooks Store,Travel,126.15,GBP,0
+1000000085,2026-10-11 18:09:10,4760480892772,Visa,Christian Bennett,Bauer-Lane LLC,Gas,105.28,CAD,0
+1000000086,2026-10-11 17:55:14,570471460768,Discover,Kyle Thomas,Hayes Group Inc,Travel,111.83,CAD,0
+1000000087,2026-10-11 18:12:52,4204016572825819646,Mastercard,Michael Mason,Tyler Ltd Store,Entertainment,67.18,GBP,0
+1000000088,2026-10-11 18:49:58,4037899666893,AMEX,Dawn Estrada,"Phillips, Porter and Garrison Store",Entertainment,144.75,CAD,0
+1000000089,2026-10-11 18:41:55,376982564224769,AMEX,Ryan Franklin,"Clark, Patterson and Hughes Store",Travel,81.03,GBP,0
+1000000090,2026-10-11 19:03:40,30310620045580,Visa,Richard Jones,"Cameron, Solis and Acosta Store",Groceries,30.68,EUR,0
+1000000091,2026-10-11 18:00:57,344847870673950,Discover,Gail Johnson,"Decker, Ware and Powers Store",Retail,11.64,GBP,0
+1000000092,2026-10-11 18:48:46,30329457809645,Mastercard,Eric Sanchez,"Walsh, Mack and West Inc",Groceries,18.49,USD,0
+1000000093,2026-10-11 19:01:58,6011940534165155,AMEX,Jennifer Bell,"Johnson, Harris and Schmidt Inc",Gas,91.53,USD,0
+1000000094,2026-10-11 18:34:42,180076739393603,Discover,Vincent Yates,Johnson-Williams Store,Gas,17.13,EUR,0
+1000000095,2026-10-11 17:54:10,3524207146694742,Visa,Bradley Woodard,Evans Ltd Store,Retail,78.9,GBP,0
+1000000096,2026-10-11 18:29:34,4530663202823486,Mastercard,Amy Hammond,"Jackson, West and Gray Store",Retail,14.65,EUR,0
+1000000097,2026-10-11 18:36:36,4577386288032,Discover,Sherry Schwartz,"Jones, King and Fox LLC",Entertainment,133.01,CAD,0
+1000000098,2026-10-11 17:56:24,3588477928506090,Discover,Monica Jenkins,Hendricks-Alvarez LLC,Groceries,69.44,USD,0
+1000000099,2026-10-11 19:05:55,2282182230572688,Visa,Cindy Jimenez,"Jackson, Swanson and Bishop Store",Travel,23.89,EUR,0
+1000000100,2026-10-11 17:53:30,4865595825099715172,Visa,Rachel Dunn,"Rodriguez, Dickerson and Owen Store",Entertainment,23.03,CAD,0
+1000000101,2026-10-11 18:47:33,3590788907959084,AMEX,Alexander Fitzgerald,Lucero PLC Inc,Groceries,36.64,CAD,0
+1000000102,2026-10-11 18:05:46,30308358015379,Discover,Scott Cooper,"Brennan, Conner and Jones Store",Groceries,126.09,GBP,0
+1000000103,2026-10-11 17:52:20,3576947122147267,Visa,Scott Buchanan,"Taylor, Morgan and Moore Inc",Groceries,148.96,EUR,0
+1000000104,2026-10-11 18:46:14,2708679885468167,Discover,Christie Foster,"Murray, Parker and Elliott LLC",Gas,107.4,EUR,0
+1000000105,2026-10-11 17:54:25,630461880308,Visa,Jason Long,Brewer-Sims Store,Groceries,2705.69,CAD,1
+1000000106,2026-10-11 18:37:00,371947490826321,Discover,Patty Silva,"Garcia, Williams and Jacobs Inc",Retail,115.29,CAD,0
+1000000107,2026-10-11 18:51:51,4999052766135,Mastercard,Sheri Jackson MD,Moses-Jones Inc,Gas,38.48,CAD,0
+1000000108,2026-10-11 19:10:34,4718865310901,Mastercard,Lauren Holden,"Stewart, Moreno and York Inc",Gas,20.18,USD,0
+1000000109,2026-10-11 18:15:08,5140120877609111,Mastercard,Melissa Webb,Wright-Thompson LLC,Travel,111.48,GBP,0
+1000000110,2026-10-11 19:21:30,4977852119873789,Mastercard,Michael Harris,Harding Ltd LLC,Travel,90.61,EUR,0
+1000000111,2026-10-11 19:16:55,213142930316677,AMEX,Daisy White,"Brown, Mills and Smith Inc",Gas,77.7,GBP,0
+1000000112,2026-10-11 18:19:58,6011764839264228,Discover,Megan Thomas,Olson-Becker LLC,Travel,56.23,GBP,0
+1000000113,2026-10-11 18:27:54,3506384048101373,AMEX,Sarah Jones,Nichols-Murphy Inc,Gas,21.38,GBP,0
+1000000114,2026-10-11 18:45:28,30294101076480,Mastercard,Jordan Davis,"Little, Johnson and Wright Inc",Groceries,16.1,CAD,0
+1000000115,2026-10-11 19:12:55,6011007825235418,Mastercard,Elizabeth Lewis,"Olson, Howard and Villegas Inc",Groceries,32.07,USD,0
+1000000116,2026-10-11 19:13:46,6011268558210289,Visa,Holly Estrada,Carter Inc Inc,Retail,80.74,EUR,0
+1000000117,2026-10-11 18:00:31,6593908554757439,Visa,Rachel Bentley,"Lewis, Wright and Flynn Store",Entertainment,58.74,GBP,0
+1000000118,2026-10-11 19:33:10,30566530270325,Mastercard,Nancy Hodges,"Holmes, Silva and Johnson LLC",Entertainment,21.76,CAD,0
+1000000119,2026-10-11 19:14:20,4034491964644,Mastercard,Samantha Smith,Sanchez-Nguyen Inc,Travel,46.72,EUR,0
+1000000120,2026-10-11 18:39:10,3587475380162981,Mastercard,Jennifer Moses,Moore LLC LLC,Groceries,138.35,CAD,0
+1000000121,2026-10-11 19:07:56,4609192165374069,Discover,Anthony Mejia,Hall LLC Store,Gas,95.6,EUR,0
+1000000122,2026-10-11 18:46:20,213186897435525,Visa,Dr. Wesley Moore,"Hill, Sanchez and Trujillo LLC",Groceries,30.17,CAD,0
+1000000123,2026-10-11 19:05:22,4678501369028,Mastercard,Theresa Cooper,Fischer-Davis LLC,Groceries,66.15,EUR,0
+1000000124,2026-10-11 19:10:14,375403310374767,Visa,Valerie Good,Alexander-Lucas LLC,Entertainment,32.43,EUR,0
+1000000125,2026-10-11 18:35:35,213199348971584,Mastercard,David Ramirez,"Farmer, Martinez and Hernandez Store",Gas,60.07,CAD,0
+1000000126,2026-10-11 18:23:28,2222422760075659,Discover,Lisa Stevens,Howe LLC LLC,Retail,29.77,EUR,0
+1000000127,2026-10-11 18:59:50,4886641766103701,Visa,Allen Fletcher,Roman and Sons LLC,Groceries,77.06,CAD,0
+1000000128,2026-10-11 18:43:26,4488049100855436,AMEX,Matthew Davis,"Arias, Mclean and Gibson Inc",Retail,137.89,EUR,0
+1000000129,2026-10-11 18:16:01,4332364451715983936,Mastercard,Holly Nelson,Schmidt-Jones Store,Groceries,86.06,EUR,0
+1000000130,2026-10-11 19:38:40,4010652419122944919,Visa,Melissa Shaw,Phillips Inc Inc,Entertainment,97.5,EUR,0
+1000000131,2026-10-11 18:42:51,2311022211511039,Mastercard,Brooke Jenkins,"Thompson, Bailey and Walker Store",Gas,2512.22,CAD,1
+1000000132,2026-10-11 18:41:10,3547000354663647,Discover,Jacqueline Rivera,Potts-Cox Inc,Entertainment,64.93,EUR,0
+1000000133,2026-10-11 17:57:20,30462248711604,Visa,Bonnie Tucker,"Williams, Stuart and Andersen LLC",Travel,90.09,GBP,0
+1000000134,2026-10-11 19:31:18,503805938324,Mastercard,Kim White,Fischer-Vazquez Store,Gas,34.95,CAD,0
+1000000135,2026-10-11 18:58:25,585477797583,AMEX,Michael Moore,"Richmond, Poole and Huang Store",Entertainment,93.91,GBP,0
+1000000136,2026-10-11 18:54:30,4547669775665056,AMEX,Megan Stanley,"Cruz, Smith and Merritt LLC",Groceries,33.76,GBP,0
+1000000137,2026-10-11 19:29:20,213149895560801,Mastercard,Brianna Smith,"Jackson, Snow and Bailey Inc",Travel,141.3,EUR,0
+1000000138,2026-10-11 19:41:40,2254632524975702,Mastercard,Zachary Thompson IV,Elliott-Gomez LLC,Groceries,82.28,EUR,0
+1000000139,2026-10-11 18:51:37,213143233351668,Visa,Tammy Brown,Haney-Walker Store,Entertainment,4417.92,USD,1
+1000000140,2026-10-11 19:22:30,4519233195455817942,Visa,Jerry Lyons,"Howell, Perkins and Smith Inc",Travel,63.3,CAD,0
+1000000141,2026-10-11 18:12:46,349301888353754,Discover,Elizabeth Rush,Brown and Sons Store,Gas,69.42,EUR,0
+1000000142,2026-10-11 17:58:50,4652675180925,Discover,Amy Wilson,Skinner-Mercado Inc,Gas,77.53,GBP,0
+1000000143,2026-10-11 19:31:57,5248689871192101,AMEX,Joyce Johnston,"Jones, Mueller and Kelly LLC",Retail,39.64,CAD,0
+1000000144,2026-10-11 19:30:22,4353906289459771,Mastercard,Timothy Johnson,Graves PLC LLC,Entertainment,125.34,EUR,0
+1000000145,2026-10-11 18:04:10,375281746969198,Discover,Donald Brown,"Webb, Armstrong and Griffith Inc",Gas,73.61,GBP,0
+1000000146,2026-10-11 18:28:42,180017701092633,Mastercard,Benjamin Gordon,Bell Group Inc,Travel,8.89,EUR,0
+1000000147,2026-10-11 17:59:40,3508188069919243,Discover,Keith Lewis,"Anderson, Jones and Rios Store",Travel,100.76,CAD,0
+1000000148,2026-10-11 18:54:06,348383573004513,Mastercard,Larry Fitzgerald,Jordan-Walton LLC,Gas,37.38,USD,0
+1000000149,2026-10-11 18:59:36,4979314410911956,Visa,Samantha Hayes,"Green, Jackson and Russell Store",Retail,141.28,EUR,0
+1000000150,2026-10-11 19:22:40,6596899116277700,Mastercard,Laura Nunez DDS,"Schneider, Miller and Perez Store",Groceries,131.51,EUR,0
+1000000151,2026-10-11 19:46:02,6545946850450589,Mastercard,Kerry Carpenter,Gregory Inc LLC,Travel,20.87,EUR,0
+1000000152,2026-10-11 19:08:54,2286769812558253,Discover,Lawrence Wagner,Porter Group Inc,Entertainment,48.37,USD,0
+1000000153,2026-10-11 18:23:37,3556012211636714,Mastercard,Kelly Morgan,Webster Inc Store,Groceries,80.75,EUR,0
+1000000154,2026-10-11 19:56:20,2494413591173657,Visa,Shannon Campbell,Long LLC Store,Travel,117.37,EUR,0
+1000000155,2026-10-11 18:06:10,585981881063,Discover,Matthew Fernandez,"Harris, Perez and Cruz LLC",Retail,78.19,GBP,0
+1000000156,2026-10-11 18:16:46,4965382811059826048,Mastercard,Christina Bryant,"Hill, Gomez and David Inc",Gas,122.38,CAD,0
+1000000157,2026-10-11 18:58:54,3583825928344760,Discover,Brenda Walton,Bates LLC Inc,Entertainment,20.75,EUR,0
+1000000158,2026-10-11 19:33:40,3579081596958483,Visa,Mr. Dennis Malone MD,"Diaz, Marks and Young Store",Gas,4924.13,GBP,1
+1000000159,2026-10-11 19:52:58,4258704199356534,AMEX,Raymond Drake,Munoz-Cortez Inc,Groceries,107.46,USD,0
+1000000160,2026-10-11 19:05:50,30345426721554,Mastercard,Sarah Wright,Brown-Graham LLC,Travel,123.96,EUR,0
+1000000161,2026-10-11 20:13:29,3565388074978107,Visa,John Miller,"Edwards, Nelson and Ali Store",Gas,115.11,EUR,0
+1000000162,2026-10-11 18:56:10,4002341230094,Visa,Michael Green,Mitchell LLC LLC,Gas,111.99,EUR,0
+1000000163,2026-10-11 20:07:18,4460831399891947,AMEX,Kathryn Adams,Elliott-James Store,Travel,91.2,CAD,0
+1000000164,2026-10-11 18:54:26,3562580149162203,Discover,Willie Robles,Miller Group Store,Travel,45.98,USD,0
+1000000165,2026-10-11 19:30:40,3564354200870502,AMEX,Kelly Knox,Harris-Dougherty Inc,Retail,30.99,EUR,0
+1000000166,2026-10-11 18:16:40,4145850030259101,Mastercard,Jackson Miranda,Donovan-Williams LLC,Gas,143.53,CAD,0
+1000000167,2026-10-11 18:19:42,30514179656834,AMEX,Andrew Alvarado,"Smith, Hart and Davis LLC",Entertainment,59.25,CAD,0
+1000000168,2026-10-11 20:17:34,503853456021,Discover,Richard Roman,Hall PLC Inc,Groceries,85.39,GBP,0
+1000000169,2026-10-11 19:10:56,4729540620721347,Mastercard,Donna Medina,Young LLC LLC,Entertainment,71.95,USD,0
+1000000170,2026-10-11 18:23:20,4957991008270175251,Discover,Suzanne Young,Powell-Perkins Inc,Entertainment,22.28,CAD,0
+1000000171,2026-10-11 20:23:19,347824980680438,AMEX,Laura Torres,Norman Group Inc,Travel,9.53,GBP,0
+1000000172,2026-10-11 20:18:34,4181784941298566,Discover,James Taylor,Bradford Ltd Store,Entertainment,43.05,GBP,0
+1000000173,2026-10-11 18:32:50,4728140539285590,Discover,Monica Barton,Evans-Garza LLC,Entertainment,12.1,EUR,0
+1000000174,2026-10-11 18:07:04,36285799406157,Visa,Amanda Underwood,Guerrero and Sons Store,Groceries,40.15,USD,0
+1000000175,2026-10-11 19:20:10,3553890334228789,Discover,Julie Lindsey,"Holmes, Ortiz and Landry Inc",Gas,21.06,GBP,0
+1000000176,2026-10-11 19:41:18,6502657841342964,Mastercard,Michael Dean,Johnson-Nguyen Inc,Travel,50.98,EUR,0
+1000000177,2026-10-11 20:29:13,3539342223141888,Mastercard,Julie Estrada,Ho PLC Inc,Gas,125.0,GBP,0
+1000000178,2026-10-11 19:21:58,4151171521160398,AMEX,Jeffery Richardson,Doyle-Carter Inc,Entertainment,60.24,USD,0
+1000000179,2026-10-11 19:31:31,30514773576297,AMEX,Heather Johnson,Gomez-Hogan Store,Gas,59.31,CAD,0
+1000000180,2026-10-11 20:32:10,347729626903971,AMEX,Lee Russell,Lewis-Scott LLC,Entertainment,93.23,USD,0
+1000000181,2026-10-11 19:20:45,4785884599767944,Mastercard,Andre Davis,Strickland and Sons Inc,Retail,47.76,GBP,0
+1000000182,2026-10-11 19:24:22,3554035225036946,Discover,Tamara Roberts,"Taylor, Figueroa and Nixon Inc",Travel,42.2,CAD,0
+1000000183,2026-10-11 18:36:10,3526265264717875,Mastercard,Jessica Hayes,"Garcia, Mckinney and Navarro Store",Travel,37.42,GBP,0
+1000000184,2026-10-11 19:50:06,676109118494,Visa,Sean Schmidt,Jones and Sons LLC,Groceries,36.67,USD,0
+1000000185,2026-10-11 20:09:20,4562608165914327434,Discover,Mary Nelson,Nguyen-Miles LLC,Groceries,3582.16,GBP,1
+1000000186,2026-10-11 19:29:52,180058900774951,AMEX,Jose Martin,Mckinney LLC Inc,Gas,2894.95,CAD,1
+1000000187,2026-10-11 20:17:14,180045650797019,Discover,Ashley Gonzalez,Campbell-Lam LLC,Groceries,16.86,USD,0
+1000000188,2026-10-11 18:19:02,4392607089429,Discover,Amy Ross,"Clark, Daniels and Wall Store",Entertainment,146.54,CAD,0
+1000000189,2026-10-11 19:38:01,4506811389455354,Visa,Scott Garcia,Evans-Horton Inc,Travel,102.75,USD,0
+1000000190,2026-10-11 20:19:50,213161037287524,Discover,Mary Jimenez,Knox-Mcconnell Inc,Gas,101.76,GBP,0
+1000000191,2026-10-11 19:55:14,3595110460560487,AMEX,Albert Cox,"Brandt, Johnson and Johnston Inc",Gas,62.44,CAD,0
+1000000192,2026-10-11 18:45:34,38001867826913,AMEX,Adam Meyers,Holloway and Sons Inc,Retail,3326.92,EUR,1
+1000000193,2026-10-11 18:42:43,4614058058158310,AMEX,Kathryn Ramirez,"Thomas, Stout and Duncan Inc",Entertainment,78.0,EUR,0
+1000000194,2026-10-11 19:08:56,3510669231821223,AMEX,Andrea Potter,"Rodriguez, Miller and Zhang LLC",Groceries,60.96,GBP,0
+1000000195,2026-10-11 19:51:40,3564377023804911,Mastercard,Linda Watts,Arnold-Cole LLC,Groceries,129.55,GBP,0
+1000000196,2026-10-11 20:28:18,676177421390,Discover,Cynthia Smith,Barnes-Lawson Store,Travel,8.82,USD,0
+1000000197,2026-10-11 20:09:29,6011534243782986,Discover,George Cox,Williams-Lowery Inc,Travel,24.59,GBP,0
+1000000198,2026-10-11 19:14:10,3540591890549602,Discover,Lisa Bradford,"Hughes, Johnson and Douglas Store",Retail,82.54,EUR,0
+1000000199,2026-10-11 20:01:06,3571609420721897,Mastercard,Jamie Townsend,Mcdonald-Harris Inc,Retail,126.06,USD,0
+1000000200,2026-10-11 20:28:30,4438703111195882,AMEX,Amanda Neal,Reynolds Group Store,Gas,59.48,EUR,0
+1000000201,2026-10-11 20:15:58,30388208470198,AMEX,Cynthia Hunter,Cox Ltd Store,Travel,68.77,EUR,0
+1000000202,2026-10-11 20:20:08,4178910302532807,AMEX,Erin Wilkins,"Craig, Mata and Lloyd Store",Entertainment,129.98,EUR,0
+1000000203,2026-10-11 19:57:16,3540559386108746,Mastercard,Jamie Evans,Duncan Group Inc,Groceries,145.7,CAD,0
+1000000204,2026-10-11 20:31:58,3548784883999148,Discover,Mathew Knight,"Walker, Cohen and Schmidt Store",Retail,45.09,USD,0
+1000000205,2026-10-11 19:07:25,4967907149174681,Visa,Katelyn Clark,"Moran, Jones and Jones Inc",Retail,149.55,USD,0
+1000000206,2026-10-11 19:52:30,180070474053217,Discover,Sharon Wise,"Harris, Torres and Savage LLC",Travel,147.4,CAD,0
+1000000207,2026-10-11 20:06:58,4636442540289,Discover,Kelly Hurley,Turner-Stephens Store,Groceries,103.2,GBP,0
+1000000208,2026-10-11 19:26:06,4548848526031407137,Visa,Alison Lopez,Mcmahon-Weaver Inc,Travel,15.55,GBP,0
+1000000209,2026-10-11 20:36:18,2257251361035764,Visa,Melissa Ramirez,"Bryant, Oliver and Hernandez Inc",Retail,60.8,CAD,0
+1000000210,2026-10-11 19:09:40,30461167971207,Mastercard,Hannah Martin,"Greer, Rasmussen and Terrell LLC",Groceries,97.68,EUR,0
+1000000211,2026-10-11 20:59:08,5365812974388882,Discover,Brittany Smith,"Lozano, Stewart and Rogers LLC",Groceries,24.5,CAD,0
+1000000212,2026-10-11 19:52:58,2232811479678241,Mastercard,Karen Smith,"Perez, Smith and Johnson Inc",Travel,111.53,GBP,0
+1000000213,2026-10-11 20:39:46,4117500481948327098,AMEX,Carlos Harris,"Anderson, Brandt and Hill Store",Gas,33.81,USD,0
+1000000214,2026-10-11 18:35:48,4029489306737894861,Discover,Cathy Green,Watkins-Martinez Inc,Travel,112.65,USD,0
+1000000215,2026-10-11 20:23:35,2301891781334929,Discover,Megan Warner,Castro Inc Store,Entertainment,137.68,USD,0
+1000000216,2026-10-11 18:29:10,3536977695585600,Discover,Jonathan Macdonald,Stephens Group Store,Gas,79.06,GBP,0
+1000000217,2026-10-11 18:33:02,4749631594424608,Mastercard,John Garcia,"Adams, Collins and Carter Store",Retail,23.27,EUR,0
+1000000218,2026-10-11 20:04:08,6576395280963310,Visa,Joseph Tucker,"Green, Bass and Gomez LLC",Gas,14.79,GBP,0
+1000000219,2026-10-11 18:33:34,36474889847500,Visa,Matthew Mathis,Everett LLC Store,Retail,3888.65,EUR,1
+1000000220,2026-10-11 20:45:50,4033054422760404358,AMEX,Raymond Chen,Rhodes-Fisher Store,Gas,43.59,EUR,0
+1000000221,2026-10-11 20:57:45,373313958785608,Discover,Ryan Poole,Mann-Brown Inc,Groceries,54.04,GBP,0
+1000000222,2026-10-11 19:59:28,6591222935816803,Visa,Teresa Diaz,Lopez LLC Inc,Gas,103.12,GBP,0
+1000000223,2026-10-11 19:19:14,370991755812973,AMEX,Dana Rose,Stevens Ltd LLC,Gas,139.63,CAD,0
+1000000224,2026-10-11 20:34:22,3599118685486111,Mastercard,Anthony Smith,Smith-Williams LLC,Travel,119.11,GBP,0
+1000000225,2026-10-11 19:35:10,503877222011,Discover,Zachary Brown,Hart PLC Store,Retail,3596.77,CAD,1
+1000000226,2026-10-11 20:20:54,213132337724342,Discover,Kerri Ramos,"Davis, Garcia and Webb Inc",Travel,147.39,USD,0
+1000000227,2026-10-11 20:25:25,4943543368191178,AMEX,Joshua Escobar,Smith-Taylor LLC,Groceries,138.01,USD,0
+1000000228,2026-10-11 19:02:34,38887216178372,Mastercard,Melanie Noble,Barker-Mayo Inc,Groceries,102.82,CAD,0
+1000000229,2026-10-11 21:16:32,6514206264711655,Visa,Jordan Glass,Peters Group Store,Gas,104.23,USD,0
+1000000230,2026-10-11 20:31:30,639071939800,Mastercard,Tony Fletcher,Smith-Curtis LLC,Gas,33.71,EUR,0
+1000000231,2026-10-11 19:03:43,4345545561380010650,Discover,Linda Malone,Walker Inc LLC,Retail,6.55,USD,0
+1000000232,2026-10-11 20:17:34,6565511426471181,Mastercard,Robin Myers,Stanley Inc LLC,Entertainment,126.94,GBP,0
+1000000233,2026-10-11 20:22:09,4044781269851,AMEX,Kathy Chapman,Carrillo and Sons Inc,Travel,102.91,USD,0
+1000000234,2026-10-11 20:26:46,3527769023478223,Visa,Jesse Turner,Hale-Weaver Store,Retail,71.62,EUR,0
+1000000235,2026-10-11 19:52:15,2226264836088100,Visa,Melissa Lynch,"Grant, Hampton and Davis LLC",Groceries,84.03,EUR,0
+1000000236,2026-10-11 21:27:14,36954404897148,Discover,Arthur King,Lee Ltd LLC,Groceries,36.31,EUR,0
+1000000237,2026-10-11 20:01:19,6525793320027744,AMEX,Nathaniel Freeman,Wagner LLC Inc,Travel,24.55,GBP,0
+1000000238,2026-10-11 18:30:42,3507924804680307,AMEX,Dr. Diane Armstrong DVM,Costa Ltd Inc,Groceries,146.58,EUR,0
+1000000239,2026-10-11 18:50:51,30246303136546,Mastercard,Cindy Williams,"Wagner, Hughes and Brock Inc",Retail,19.6,EUR,0
+1000000240,2026-10-11 20:39:10,3547632887902199,Visa,Mark Werner,Wilson-Gutierrez Store,Groceries,136.26,GBP,0
+1000000241,2026-10-11 21:12:04,6597080445543331,Discover,Jeffrey Barber,Price-Herring Store,Retail,146.22,CAD,0
+1000000242,2026-10-11 19:52:18,568977846720,Visa,Angela Walker,Miller-Evans LLC,Gas,19.4,CAD,0
+1000000243,2026-10-11 20:05:01,6011772241303526,Mastercard,Mary Campbell,Johnson-Jensen Store,Retail,23.59,CAD,0
+1000000244,2026-10-11 19:29:02,3535938913308457,Discover,Carolyn Jones,Campbell-Wilson LLC,Groceries,86.47,EUR,0
+1000000245,2026-10-11 18:56:50,5105110151193596,Visa,Alexis Jones,Chan-Harrington LLC,Retail,46.55,EUR,0
+1000000246,2026-10-11 20:19:10,5155959410094907,Mastercard,Joyce Snyder,"Poole, Ward and Avila Store",Travel,122.95,GBP,0
+1000000247,2026-10-11 21:21:35,213194960680225,Visa,Suzanne Williams,Baker-Ibarra Store,Retail,142.91,USD,0
+1000000248,2026-10-11 21:34:54,2720081318061053,Visa,Michael Duncan,"Dean, Porter and Castro Inc",Travel,145.02,USD,0
+1000000249,2026-10-11 21:40:01,180033507822644,Discover,Jennifer Mathews,Payne PLC Store,Groceries,49.89,EUR,0
+1000000250,2026-10-11 19:11:00,4713006883170163072,Mastercard,Rachel Lewis,Rubio-Smith LLC,Gas,127.44,CAD,0
+1000000251,2026-10-11 21:12:42,3538047951987243,Visa,Daniel Rogers,Allen-Wilson Inc,Gas,116.4,GBP,0
+1000000252,2026-10-11 18:21:22,4134978586646937416,Discover,Joseph Cameron,"Hansen, Morales and Campbell Inc",Retail,89.49,USD,0
+1000000253,2026-10-11 18:59:30,30593695320794,AMEX,Matthew Martin,Fleming-Collier LLC,Entertainment,132.93,USD,0
+1000000254,2026-10-11 19:54:52,3524137961226611,AMEX,Adam Jenkins,Trevino and Sons Store,Entertainment,56.47,USD,0
+1000000255,2026-10-11 21:41:40,340192556091779,Visa,Keith Gordon,Richardson-Smith Store,Gas,63.35,EUR,0
+1000000256,2026-10-11 19:51:42,2716172180709089,Discover,Catherine Dyer,Cruz LLC Store,Travel,82.71,CAD,0
+1000000257,2026-10-11 20:13:39,3580298571232570,Discover,Jeffery Nelson,"Strickland, Douglas and Chase LLC",Travel,65.6,EUR,0
+1000000258,2026-10-11 20:22:52,6011364136553413,Discover,Robert Hall,Juarez Group LLC,Entertainment,84.69,EUR,0
+1000000259,2026-10-11 18:35:36,4110359489915990,Discover,Edward Scott,Green-Nash LLC,Retail,124.83,USD,0
+1000000260,2026-10-11 21:50:50,4397885652558,Mastercard,Matthew Moreno,"Meadows, Matthews and Brown LLC",Travel,87.83,CAD,0
+1000000261,2026-10-11 18:18:40,2345699078907739,AMEX,Michael Hughes,Gomez-Haynes LLC,Groceries,109.94,USD,0
+1000000262,2026-10-11 19:54:54,2266482457150105,Discover,Nathaniel Smith,"Bartlett, Herring and Gordon Store",Retail,16.82,EUR,0
+1000000263,2026-10-11 20:39:16,2242133108673693,Mastercard,Jessica Strickland,Alvarado and Sons Store,Retail,10.71,EUR,0
+1000000264,2026-10-11 21:01:58,4096921896548975,Visa,Erika Buck,"Villanueva, Paul and Jones Store",Groceries,73.04,GBP,0
+1000000265,2026-10-11 21:51:20,374193146481396,Visa,Jose Sanders,Martinez-Hill Inc,Groceries,128.03,CAD,0
+1000000266,2026-10-11 21:12:24,4831147192235,Discover,Robin Lucas,Grant Ltd Inc,Gas,64.09,CAD,0
+1000000267,2026-10-11 18:41:55,4323600346328169266,Discover,Ryan Nelson,Willis LLC Inc,Retail,4268.67,GBP,1
+1000000268,2026-10-11 21:09:34,3558954669410522,AMEX,Steven Vargas,Thompson Ltd Store,Retail,3183.54,GBP,1
+1000000269,2026-10-11 21:19:20,4318740771375,Mastercard,Jeff Robinson,Serrano Ltd Store,Groceries,114.9,CAD,0
+1000000270,2026-10-11 21:47:10,5487035586385657,Visa,Brandon Allen,Watkins-Foster Inc,Groceries,87.46,USD,0
+1000000271,2026-10-11 20:13:15,501881277203,Discover,Ashlee Smith,Johnson and Sons LLC,Groceries,7.06,EUR,0
+1000000272,2026-10-11 18:20:30,30023848544470,AMEX,Samuel Jackson,"Johnson, Sloan and Hubbard Store",Groceries,52.95,CAD,0
+1000000273,2026-10-11 19:06:10,30421645723729,Mastercard,Nicholas Rosales,"Middleton, Stafford and Franklin LLC",Gas,56.27,USD,0
+1000000274,2026-10-11 18:20:50,4985361211087603,Discover,Sharon Yates,"Hernandez, Carey and Rodriguez LLC",Gas,39.13,EUR,0
+1000000275,2026-10-11 22:01:00,3524227235546181,Discover,Victoria Ramirez,Maldonado and Sons Store,Groceries,133.48,CAD,0
+1000000276,2026-10-11 19:07:10,30099796423172,AMEX,Michael Cole,Shepard Group Store,Retail,127.15,EUR,0
+1000000277,2026-10-11 20:53:41,378157814977817,Discover,Jacob James,"Avila, Chavez and Mason LLC",Travel,101.48,USD,0
+1000000278,2026-10-11 21:50:00,4577253159047299,Visa,Andrew Collier,Morales-Smith Inc,Gas,76.77,GBP,0
+1000000279,2026-10-11 20:22:34,3557313548860491,AMEX,Holly Perez,Brewer-Harvey Inc,Travel,44.56,EUR,0
+1000000280,2026-10-11 20:51:10,4319448811072148,Discover,Dennis Dickerson,Phillips and Sons LLC,Travel,82.82,GBP,0
+1000000281,2026-10-11 22:16:10,3536897495763456,AMEX,Colleen Miller,"Foley, Foster and Williams Store",Groceries,32.67,USD,0
+1000000282,2026-10-11 20:52:34,4100718741483143901,Mastercard,Diana Gordon,Anderson-Garcia Store,Groceries,74.76,CAD,0
+1000000283,2026-10-11 21:21:34,4047715405921,Mastercard,Jennifer Day,"Velez, Baker and Harmon Inc",Groceries,111.16,GBP,0
+1000000284,2026-10-11 19:42:58,4693680436324,Discover,Brianna Warner,Anderson LLC Store,Retail,66.28,CAD,0
+1000000285,2026-10-11 19:05:25,4680728205573504751,Mastercard,Dawn Lloyd,Wilson-Compton Inc,Retail,141.78,USD,0
+1000000286,2026-10-11 19:00:58,4962728135496051,Mastercard,Mary Hall,"Mayo, Trevino and Beck LLC",Gas,55.72,CAD,0
+1000000287,2026-10-11 21:48:41,6509183183169397,Mastercard,Susan Morris,Mayer-Thomas Inc,Groceries,33.53,EUR,0
+1000000288,2026-10-11 20:51:58,180044885389767,Mastercard,Chelsea Bailey,Daniels PLC LLC,Gas,58.07,USD,0
+1000000289,2026-10-11 18:57:03,6011085308919310,AMEX,Pamela Welch,Moore-Jensen Inc,Gas,45.73,USD,0
+1000000290,2026-10-11 20:19:30,4746580956713905,Discover,Emily Buck,Myers-Anderson Store,Gas,39.26,USD,0
+1000000291,2026-10-11 18:52:46,4064954759604906,AMEX,Tina Cardenas,Skinner Ltd LLC,Entertainment,53.47,EUR,0
+1000000292,2026-10-11 22:07:42,4551500341480,Visa,Miss Alison James,Harmon LLC Inc,Entertainment,141.89,CAD,0
+1000000293,2026-10-11 20:40:44,30170257981766,Visa,Annette Smith,Reed Ltd Inc,Entertainment,8.61,USD,0
+1000000294,2026-10-11 18:58:28,4528091746716582,AMEX,Micheal James,Brown and Sons LLC,Travel,126.9,CAD,0
+1000000295,2026-10-11 20:12:30,4659080040495887,Discover,Ashley Sims,Sanchez-Sanchez Inc,Travel,147.8,GBP,0
+1000000296,2026-10-11 21:41:50,4470564900335306,Discover,Kevin Miller,"Martin, Allen and Stewart LLC",Retail,32.39,EUR,0
+1000000297,2026-10-11 20:38:19,2295450231227056,Visa,Haley Smith,"Kelly, George and Riley LLC",Entertainment,86.44,GBP,0
+1000000298,2026-10-11 18:44:42,6540290201844959,Mastercard,Jesse Marquez,Dennis and Sons Inc,Gas,76.37,EUR,0
+1000000299,2026-10-11 18:44:56,2240983450068740,AMEX,Christopher Wolf,Stanley-Gonzalez Store,Groceries,75.89,EUR,0
+1000000300,2026-10-11 18:45:10,3530226097929677,Mastercard,Brandon Willis,Johnson-Reyes LLC,Groceries,119.81,CAD,0
+1000000301,2026-10-11 20:20:43,5333735266272838,Discover,Martin Fisher,"Smith, Jackson and Bailey Inc",Travel,69.55,GBP,0
+1000000302,2026-10-11 21:06:34,676237504490,Discover,Matthew Anderson,Carter-Gonzalez Inc,Travel,72.53,USD,0
+1000000303,2026-10-11 19:26:16,213177782944887,Discover,Richard Russell DDS,"Morris, Lewis and Johnson Store",Groceries,126.94,GBP,0
+1000000304,2026-10-11 20:57:50,180007692272427,Mastercard,Karen Guerrero,"Watson, Levy and Brown Inc",Gas,69.2,EUR,0
+1000000305,2026-10-11 21:49:20,213126024017390,Discover,Larry Lee,Lopez and Sons LLC,Travel,65.65,EUR,0
+1000000306,2026-10-11 20:03:04,36545735062756,AMEX,Amy Webb MD,Davidson and Sons Store,Groceries,14.39,EUR,0
+1000000307,2026-10-11 22:06:21,6011358990956274,Visa,Austin Davis,Riggs Group Store,Travel,75.76,CAD,0
+1000000308,2026-10-11 19:38:22,501834301142,Discover,Jennifer Robinson,Ponce Group Store,Travel,17.77,CAD,0
+1000000309,2026-10-11 21:52:40,343449838374366,Mastercard,Theresa Carney,Howard-Walker Store,Retail,94.29,CAD,0
+1000000310,2026-10-11 19:54:40,4725397649223012892,AMEX,Nathaniel Powell,"Miller, Price and Smith LLC",Entertainment,109.46,EUR,0
+1000000311,2026-10-11 19:34:23,3528512863561867,Mastercard,Jason Pena,"Wilson, Jarvis and Hess Inc",Gas,45.13,EUR,0
+1000000312,2026-10-11 19:03:34,2419527235668988,AMEX,Rebecca Grant,"Hamilton, Serrano and Brown Inc",Gas,141.62,EUR,0
+1000000313,2026-10-11 20:37:45,6011715419618159,AMEX,Jason Stokes,Collins and Sons Inc,Gas,31.92,USD,0
+1000000314,2026-10-11 20:43:34,4325640261228616158,Visa,Jennifer Green,Lee LLC Store,Retail,56.52,CAD,0
+1000000315,2026-10-11 19:25:25,4973572006068653418,Visa,Antonio Green,"Smith, White and Evans LLC",Entertainment,120.78,EUR,0
+1000000316,2026-10-11 20:39:30,4115430271546,AMEX,Laura Day,Ramirez and Sons Store,Gas,6.23,USD,0
+1000000317,2026-10-11 19:26:07,30500926972624,AMEX,Jessica Fernandez,Harris-Beard Store,Groceries,64.8,CAD,0
+1000000318,2026-10-11 19:15:52,4669311486102,AMEX,Jermaine Richards,Johnson-Daniels Store,Retail,135.35,USD,0
+1000000319,2026-10-11 21:34:25,2399746129684984,AMEX,Patricia King,"Smith, Perez and Arnold Store",Retail,143.99,CAD,0
+1000000320,2026-10-11 18:39:10,213185251249092,AMEX,Heather Lawrence,"Mcmahon, Peterson and Johnson LLC",Retail,44.28,GBP,0
+1000000321,2026-10-11 20:42:25,576132595223,Mastercard,Heather Fuller,Valencia and Sons LLC,Gas,123.12,GBP,0
+1000000322,2026-10-11 22:41:04,180052310867521,Discover,Brandon Ellison,Jones-Rodriguez LLC,Gas,34.24,CAD,0
+1000000323,2026-10-11 22:52:47,502022180850,AMEX,Jill Proctor,"Hale, Cisneros and Woods Store",Entertainment,65.16,CAD,0
+1000000324,2026-10-11 19:28:34,379943669159059,AMEX,Diane Rodriguez,Baker-Leon LLC,Groceries,86.09,EUR,0
+1000000325,2026-10-11 23:00:10,3590053440017126,Discover,Anthony Reynolds,"Smith, Cox and Mendoza LLC",Groceries,80.68,CAD,0
+1000000326,2026-10-11 19:45:34,4244673311346326,Visa,Robert Miller,"Mcpherson, King and Martinez Store",Retail,108.67,CAD,0
+1000000327,2026-10-11 19:51:25,4741695084058,AMEX,Gregory Soto,Velazquez-Lynch LLC,Travel,139.48,USD,0
+1000000328,2026-10-11 18:29:50,4078711979973477,Discover,Steven Guerra,Carlson Ltd LLC,Entertainment,113.06,CAD,0
+1000000329,2026-10-11 20:25:09,3513143979338375,AMEX,Paul Mathews,Becker-Hall Inc,Entertainment,53.93,USD,0
+1000000330,2026-10-11 21:26:10,213143565445138,AMEX,Justin Baird,Williams-Stone Store,Entertainment,4101.07,GBP,1
+1000000331,2026-10-11 21:15:50,4194867293035572,Visa,Christian Parker,"Wood, Cooley and Barnett LLC",Retail,6.38,USD,0
+1000000332,2026-10-11 19:47:58,213198678379475,AMEX,James Mclaughlin,"Lawson, Willis and Ortiz Store",Entertainment,99.66,GBP,0
+1000000333,2026-10-11 22:29:19,3537313285532753,AMEX,Joseph Thompson,Edwards PLC Store,Gas,128.89,EUR,0
+1000000334,2026-10-11 20:33:18,4923228454498257,Mastercard,Mrs. Cynthia Scott,Martin Inc LLC,Groceries,115.07,CAD,0
+1000000335,2026-10-11 19:49:10,30120022894596,Mastercard,Megan Kelly,Harrison Inc Inc,Gas,70.17,GBP,0
+1000000336,2026-10-11 19:27:10,30086000785884,Mastercard,Jason Harris,"Burgess, Zamora and Meza Store",Groceries,14.0,CAD,0
+1000000337,2026-10-11 20:34:54,213145455413506,Discover,James Watkins,"Ross, Miller and Price Inc",Groceries,121.32,USD,0
+1000000338,2026-10-11 20:46:42,676141327681,AMEX,Donald Roberts,"Romero, Rush and Roman LLC",Travel,9.74,USD,0
+1000000339,2026-10-11 20:30:19,4853694852276,Mastercard,Megan Morton,"Russo, Valdez and Reed Store",Travel,1554.54,CAD,1
+1000000340,2026-10-11 20:30:50,38993011079433,Discover,Joshua Smith,"Walton, Weaver and Rodriguez Store",Groceries,28.32,GBP,0
+1000000341,2026-10-11 20:02:56,4073190854581,Visa,Michelle Gonzales,"Jackson, Wright and Gregory LLC",Travel,111.09,USD,0
+1000000342,2026-10-11 21:11:46,376286234326164,AMEX,Lori Lane,Johnson-Marquez Inc,Travel,96.17,USD,0
+1000000343,2026-10-11 21:18:07,6011942656636237,AMEX,Michelle Dunn,Sullivan PLC Store,Groceries,24.15,USD,0
+1000000344,2026-10-11 21:53:10,4625767882856225879,AMEX,Alisha English,Mcgee-Baker Inc,Retail,77.64,GBP,0
+1000000345,2026-10-11 18:32:40,3501543028897186,Discover,Pamela Mcmahon,"Bowers, Long and Oconnor Store",Gas,122.57,CAD,0
+1000000346,2026-10-11 19:18:58,2258531353898306,Discover,Matthew Oconnor,"Wyatt, Weaver and Glover Store",Groceries,66.56,CAD,0
+1000000347,2026-10-11 19:36:37,6563024762322465,AMEX,Austin Boyd,Clark-Vance LLC,Travel,147.72,GBP,0
+1000000348,2026-10-11 22:07:46,501896660641,Mastercard,Tyler Burns,Valdez PLC Store,Groceries,42.78,CAD,0
+1000000349,2026-10-11 22:14:22,4418585765891864,Visa,Courtney Miller,Gomez-Stone Inc,Retail,30.07,CAD,0
+1000000350,2026-10-11 22:15:10,6011784387427514,Mastercard,Michael Mendez,Marshall-Hill Store,Travel,99.23,USD,0
+1000000351,2026-10-11 23:20:19,4763196651709283769,Discover,Alexandra Cruz,"Robertson, Knox and Lynch Store",Groceries,29.93,USD,0
+1000000352,2026-10-11 22:46:06,2277436676936618,Mastercard,Timothy Neal,"Ross, Holloway and Jenkins Store",Travel,3917.98,USD,1
+1000000353,2026-10-11 20:14:01,2275587680751849,Mastercard,Kevin Carter,"Mcconnell, Moore and Garcia Store",Travel,112.11,GBP,0
+1000000354,2026-10-11 21:07:34,180072332904219,Visa,Angela Rodriguez,"Williams, Singleton and Lee Store",Retail,28.52,EUR,0
+1000000355,2026-10-11 19:27:35,213149124219021,AMEX,Tim Wilson,Dennis-Johnson Store,Groceries,47.09,USD,0
+1000000356,2026-10-11 23:25:14,38893172050050,Visa,Louis Alvarez,Cox Inc LLC,Retail,112.83,EUR,0
+1000000357,2026-10-11 21:15:19,2720194201849755,Mastercard,Darrell Garcia,Thompson-Elliott Inc,Entertainment,1734.45,GBP,1
+1000000358,2026-10-11 20:22:14,4630397956513906366,AMEX,Kevin Cooper,Ramirez Inc Store,Entertainment,144.62,GBP,0
+1000000359,2026-10-11 21:28:31,4206669980114137841,AMEX,Amanda Chambers,Montgomery Inc LLC,Retail,52.37,EUR,0
+1000000360,2026-10-11 22:47:10,30225115763978,Mastercard,Stephanie Orozco,"Travis, Hester and Kelley Inc",Retail,51.57,GBP,0
+1000000361,2026-10-11 21:35:50,30041949900995,Mastercard,Crystal Cooper MD,Stone-Conner LLC,Gas,104.31,USD,0
+1000000362,2026-10-11 23:13:02,501898588089,Visa,Christina Parks,"Miller, Davis and Cantrell LLC",Groceries,149.35,GBP,0
+1000000363,2026-10-11 20:30:37,375102433322576,Mastercard,William Burke,Hall-Bush Inc,Groceries,16.24,CAD,0
+1000000364,2026-10-11 23:08:50,3581131999225398,AMEX,Heidi Fernandez,"Bryant, Evans and Kim Inc",Travel,49.96,EUR,0
+1000000365,2026-10-11 19:49:00,4919497957653231,Mastercard,Robin Taylor,"Wells, Nielsen and Hernandez Inc",Travel,47.93,EUR,0
+1000000366,2026-10-11 22:03:34,180033902750549,AMEX,Aaron Howard,Lewis-Higgins Store,Entertainment,108.18,GBP,0
+1000000367,2026-10-11 22:04:18,345353135280375,Discover,Robert Hammond,"Hernandez, Miller and Rich Inc",Travel,141.78,USD,0
+1000000368,2026-10-11 18:54:54,3589276204587215,AMEX,Gary Taylor,"Ramos, Young and Buchanan Store",Groceries,68.03,USD,0
+1000000369,2026-10-11 19:01:16,6578038955785489,Discover,Tristan Nichols,Miller-Kirby Inc,Groceries,71.59,USD,0
+1000000370,2026-10-11 23:20:30,2607543297301030,Discover,Madeline Lozano,Mcmillan-Proctor Inc,Gas,62.44,CAD,0
+1000000371,2026-10-11 21:36:19,3585695190081038,Mastercard,Tammy Greene,Olsen PLC Store,Groceries,82.41,USD,0
+1000000372,2026-10-11 18:49:34,6011769623689407,AMEX,Carolyn Gonzalez,Garza PLC LLC,Entertainment,3713.94,USD,1
+1000000373,2026-10-11 23:35:44,6597632550014399,Mastercard,Angela Lewis,"Holmes, Mack and Underwood Inc",Groceries,78.89,GBP,0
+1000000374,2026-10-11 23:18:00,2716854983242893,Discover,Jason Welch,"Walker, Blackwell and Lopez Store",Gas,17.11,CAD,0
+1000000375,2026-10-11 23:18:55,568563616610,AMEX,Matthew Brooks,"Dixon, Haney and Smith LLC",Groceries,146.82,CAD,0
+1000000376,2026-10-11 21:58:22,4034619545317736,Mastercard,Mrs. Nicole Bush MD,Rodriguez-Cunningham Store,Travel,57.08,GBP,0
+1000000377,2026-10-11 23:27:02,6572878352938652,Visa,Diane Nolan,"Lopez, Padilla and Black LLC",Travel,103.0,USD,0
+1000000378,2026-10-11 21:47:10,30282496995026,AMEX,Jeremy Brewer,Payne PLC LLC,Entertainment,3434.92,USD,1
+1000000379,2026-10-11 19:22:33,2229011426199913,Mastercard,Kristi Bennett,Boyd Inc LLC,Retail,26.8,GBP,0
+1000000380,2026-10-11 20:00:50,4568790966559959,Discover,Christian Macdonald,"Gonzales, Johnson and Chavez Store",Entertainment,120.25,EUR,0
+1000000381,2026-10-11 22:33:37,3557581293880985,Discover,Sarah Kelly,Rubio-Benson Inc,Groceries,31.85,USD,0
+1000000382,2026-10-11 23:50:48,589794874265,Discover,Eric Sims,Young Ltd Inc,Entertainment,149.2,CAD,0
+1000000383,2026-10-11 19:30:04,3590159057793451,AMEX,Brenda Sharp,Wells-Wang LLC,Groceries,30.94,EUR,0
+1000000384,2026-10-11 19:55:58,213172905774337,AMEX,Carly Johnson,Burns-Taylor LLC,Gas,146.12,GBP,0
+1000000385,2026-10-11 22:56:00,676369992547,Mastercard,David Salinas,"Harris, Brock and Allen LLC",Groceries,34.72,EUR,0
+1000000386,2026-10-11 23:54:44,6514691702294697,AMEX,Kaitlin Chen,Roberts Inc LLC,Retail,91.98,USD,0
+1000000387,2026-10-11 19:11:55,3596561865320860,Discover,Margaret Young,Saunders Ltd Inc,Groceries,11.35,CAD,0
+1000000388,2026-10-11 19:18:38,6500533122600242,Visa,Rachel Bush,"Johnston, Perez and Acosta Store",Groceries,116.07,EUR,0
+1000000389,2026-10-11 21:22:05,342830123044148,Visa,Craig Gibson,Ferrell-Shepard LLC,Entertainment,138.19,EUR,0
+1000000390,2026-10-11 21:55:10,3597812031187348,Visa,Garrett Thompson,"Long, Allen and Barr Inc",Groceries,78.66,USD,0
+1000000391,2026-10-11 19:12:55,2295019110182052,Visa,John Perez,Haney PLC LLC,Gas,30.4,CAD,0
+1000000392,2026-10-11 20:51:10,579914621191,Discover,Shawn Riggs,"Cox, Hubbard and Anderson Store",Travel,107.79,CAD,0
+1000000393,2026-10-12 00:08:10,377099295521402,Mastercard,Melissa Reed,Farley-Nelson Inc,Retail,136.41,EUR,0
+1000000394,2026-10-11 21:05:18,6551383800868085,Mastercard,Ronald Garcia,"Shelton, Becker and Saunders Store",Gas,125.8,EUR,0
+1000000395,2026-10-12 00:10:10,5443093054722383,AMEX,Jamie Bauer,Solomon Inc Inc,Travel,100.26,CAD,0
+1000000396,2026-10-11 22:05:46,4986596615843221,Mastercard,George Carr,"Mitchell, Lee and Black Store",Travel,125.81,EUR,0
+1000000397,2026-10-11 23:45:42,630495298337,Visa,Bryan Roberts,Haynes Ltd Store,Travel,116.86,EUR,0
+1000000398,2026-10-11 23:53:16,4708481141730555,Mastercard,Christine Carlson,Watts-Butler Inc,Travel,89.08,USD,0
+1000000399,2026-10-11 22:27:46,4020632014613,Visa,Thomas Ramirez,Welch-Rodriguez Inc,Gas,53.59,USD,0
+1000000400,2026-10-11 18:55:10,4735806798648,AMEX,Andrew Guerrero,Gonzales-Lawrence Inc,Entertainment,95.53,GBP,0
+1000000401,2026-10-11 20:48:59,346570160352667,Visa,Daniel Osborne,Gardner LLC Store,Gas,77.14,GBP,0
+1000000402,2026-10-11 23:36:58,3588589934414901,Discover,Veronica Schmidt,Morse-Harris LLC,Groceries,141.05,GBP,0
+1000000403,2026-10-11 19:56:13,2510394231897170,AMEX,Arthur Jenkins,"Carter, Lee and Salinas Store",Entertainment,108.24,USD,0
+1000000404,2026-10-11 18:42:30,501834107853,AMEX,Jessica Kelly,"Herrera, Stone and Palmer Inc",Entertainment,36.88,CAD,0
+1000000405,2026-10-11 21:38:10,3576595581172431,Visa,Brandon Cox,Mata Group LLC,Retail,28.11,USD,0
+1000000406,2026-10-11 18:56:22,4797457037458743,AMEX,Robert Jones,Hayes PLC LLC,Groceries,7.27,CAD,0
+1000000407,2026-10-11 22:53:59,341237597588009,Mastercard,Lorraine Hobbs,"Page, Owens and Pratt Store",Gas,121.19,EUR,0
+1000000408,2026-10-11 22:13:58,3584370597503262,AMEX,Paul Smith,"Bowen, Shepherd and Wells Inc",Travel,67.8,EUR,0
+1000000409,2026-10-11 18:56:58,4828348932692911,Visa,Dorothy Leon,"Gilbert, Gross and Perez Inc",Retail,148.0,USD,0
+1000000410,2026-10-11 22:29:00,3523966308181795,Visa,Jennifer Becker,Frazier-Saunders LLC,Groceries,118.17,GBP,0
+1000000411,2026-10-12 00:19:19,4296043475276,AMEX,Colin Benson,Washington and Sons Inc,Gas,96.86,USD,0
+1000000412,2026-10-11 23:18:30,4749137702835107,Mastercard,Kelsey Phillips,Leonard Group Store,Gas,107.16,EUR,0
+1000000413,2026-10-11 22:44:55,676376302151,Visa,Lori Taylor,Fuller-Moore LLC,Travel,43.17,CAD,0
+1000000414,2026-10-11 20:55:16,4609806423333647,Discover,John Carr,"Hopkins, Rios and Glass LLC",Groceries,34.79,EUR,0
+1000000415,2026-10-11 22:04:55,675976360130,Visa,Tracy Foster,Caldwell Inc Inc,Travel,56.99,EUR,0
+1000000416,2026-10-11 23:49:34,630420624540,Discover,Amy Rodriguez,Costa LLC Store,Retail,9.7,GBP,0
+1000000417,2026-10-11 19:54:10,630464403348,Visa,Jose Roth,"Patrick, Norman and Ballard LLC",Groceries,74.13,CAD,0
+1000000418,2026-10-11 22:41:42,4828145449217376,AMEX,Justin Ryan,Singleton-Bauer Inc,Gas,140.76,EUR,0
+1000000419,2026-10-11 20:01:49,4252368854205654956,Mastercard,Keith Gonzales,"Ball, Harris and Weber Inc",Retail,3401.94,CAD,1
+1000000420,2026-10-11 23:53:10,3531083651741330,Discover,Joshua Bartlett,Campbell-Martinez Store,Groceries,138.59,GBP,0
+1000000421,2026-10-11 18:45:20,379226740618941,Mastercard,Nicholas Harrington,"Schultz, Burton and Johnson Store",Gas,78.09,USD,0
+1000000422,2026-10-11 23:19:48,4049987519900,AMEX,Robin Swanson,Salazar-Yu Inc,Gas,31.41,EUR,0
+1000000423,2026-10-11 22:31:16,30525958932485,Visa,Susan White,"Carson, Harrison and Grant Store",Groceries,93.02,CAD,0
+1000000424,2026-10-11 22:31:58,6011156672715327,Discover,Tammy Williams,Ortega-Davis LLC,Gas,130.73,GBP,0
+1000000425,2026-10-12 00:04:45,4442426677611893174,Discover,Jessica Carter,Green Group Inc,Gas,13.27,GBP,0
+1000000426,2026-10-11 23:44:22,30396987200942,Visa,Justin Rangel,Garcia PLC Inc,Groceries,16.38,USD,0
+1000000427,2026-10-11 23:23:53,30059911906626,Discover,David Roberts,Mason-Randolph Inc,Entertainment,60.36,USD,0
+1000000428,2026-10-11 21:51:58,2255877991501015,Visa,Michael Hernandez,Obrien-Jimenez Store,Gas,76.07,EUR,0
+1000000429,2026-10-11 23:11:13,630476834662,Mastercard,Sarah Golden,Proctor-Pena Inc,Gas,51.17,USD,0
+1000000430,2026-10-11 20:12:50,3514300725976242,AMEX,Dennis Ramirez,"Robinson, Johnson and Holt Inc",Groceries,14.95,CAD,0
+1000000431,2026-10-11 21:10:40,4504901651382220,AMEX,Amanda Williams DDS,May Inc LLC,Travel,48.72,EUR,0
+1000000432,2026-10-11 21:18:22,4693924888111588173,Visa,Lynn Miller,"Lucas, Sanchez and Clements Inc",Groceries,129.64,EUR,0
+1000000433,2026-10-11 21:26:06,6011810364365730,AMEX,Dylan Hansen,Costa-Wallace Store,Gas,136.03,GBP,0
+1000000434,2026-10-12 00:20:14,6517062218117052,Visa,Samantha Sims MD,Solis Inc Inc,Travel,104.78,USD,0
+1000000435,2026-10-11 23:59:25,4426496532083571,Mastercard,Thomas Cooper,Wiggins-Hart Inc,Groceries,29.57,EUR,0
+1000000436,2026-10-11 19:31:26,6011741214715024,Visa,Charles Powell,"Ramos, Le and Davis Store",Retail,94.02,GBP,0
+1000000437,2026-10-11 20:08:07,180024171279575,Visa,Antonio Hernandez,"Daniel, Meyer and Robinson Inc",Retail,139.82,GBP,0
+1000000438,2026-10-11 18:55:28,30117569661297,Mastercard,Jesse Mendez,Johnson-Jones Store,Gas,8.79,GBP,0
+1000000439,2026-10-12 00:02:57,4523236693402760420,Discover,Taylor Padilla,Sosa Inc LLC,Travel,37.27,EUR,0
+1000000440,2026-10-11 20:45:50,30215705713897,AMEX,Mary Warren,Munoz PLC Store,Travel,91.0,GBP,0
+1000000441,2026-10-11 22:43:52,4748238420012879,Mastercard,Melinda Petty,"Ward, Lopez and Stewart LLC",Groceries,13.66,USD,0
+1000000442,2026-10-11 22:44:34,060471842942,Discover,William Sims,Frazier-Ramsey LLC,Travel,149.44,EUR,0
+1000000443,2026-10-11 20:10:13,36099370056830,Mastercard,John Estes,Cook-Simon Inc,Groceries,9.1,USD,0
+1000000444,2026-10-11 21:17:10,6526036821182082,Visa,John Gardner,"Ferguson, Henderson and Frazier Inc",Retail,137.02,GBP,0
+1000000445,2026-10-11 20:55:25,2307239438371403,Discover,Lori Hoover,"Todd, Reyes and Beltran Inc",Gas,101.45,USD,0
+1000000446,2026-10-11 19:19:14,4592913920463775,Discover,Trevor Foster,Kelly-Thomas Store,Gas,140.54,EUR,0
+1000000447,2026-10-11 19:34:22,4277478961071,Mastercard,Brianna Jacobs,Ferguson Inc LLC,Gas,132.67,GBP,0
+1000000448,2026-10-11 23:41:02,4250456711064934,AMEX,Robert Mejia,"Mays, Arnold and Zavala LLC",Entertainment,47.44,USD,0
+1000000449,2026-10-11 22:27:01,5317249050184613,Visa,Jessica King,Mclaughlin Group Inc,Retail,11.1,USD,0
+1000000450,2026-10-11 20:20:10,4530196290468930,Discover,Manuel Little,"Robles, Meyers and Torres Inc",Entertainment,15.19,CAD,0
+1000000451,2026-10-11 19:20:24,36139611805395,Mastercard,Ricky Caldwell,Wall-Andrews LLC,Groceries,65.47,EUR,0
+1000000452,2026-10-11 22:13:54,3518958804851127,AMEX,Leslie Anderson,Flowers LLC Inc,Entertainment,32.9,CAD,0
+1000000453,2026-10-11 21:36:46,2323598667426901,Mastercard,Matthew Davis,Joseph and Sons LLC,Travel,63.88,CAD,0
+1000000454,2026-10-11 21:29:44,180039844769828,Discover,Daniel Brown,"Bond, Cameron and Allen Store",Travel,30.01,EUR,0
+1000000455,2026-10-11 22:23:20,3524883312535370,Mastercard,Christopher Martinez,"Meyer, Wheeler and Wells Inc",Retail,51.26,EUR,0
+1000000456,2026-10-11 21:38:22,4096921983746425,AMEX,Wayne Gates,Harris Ltd Inc,Entertainment,62.86,USD,0
+1000000457,2026-10-11 21:23:40,213156655183377,AMEX,Nicole Hughes,Martin-Henry Store,Entertainment,73.39,USD,0
+1000000458,2026-10-12 00:12:06,6524174679522810,Mastercard,Sarah Reyes,Zuniga LLC Inc,Gas,4985.23,CAD,1
+1000000459,2026-10-11 22:56:28,3576359668228594,AMEX,Jonathan Campos,"Brewer, Brown and Berry LLC",Retail,141.68,CAD,0
+1000000460,2026-10-11 19:14:50,4420078296228703,Visa,Richard Mcguire,Barr and Sons Store,Entertainment,96.26,EUR,0
+1000000461,2026-10-11 23:43:58,675984121011,Mastercard,Mario Griffin,"Stewart, Lopez and Allen Store",Entertainment,47.64,EUR,0
+1000000462,2026-10-11 19:15:16,4973733524577369,Mastercard,Emily Gutierrez,"Hughes, Reilly and Evans Inc",Travel,82.42,GBP,0
+1000000463,2026-10-11 19:23:12,4587256455918,Discover,Diana Carpenter,Hernandez-Villegas Inc,Entertainment,55.26,GBP,0
+1000000464,2026-10-11 21:42:38,4318193860945528,Mastercard,Phillip Anderson MD,Hensley-Garza Store,Gas,135.39,CAD,0
+1000000465,2026-10-11 21:43:10,180079093438360,Visa,Shirley Rivera,"Jones, Howard and Tanner Store",Retail,74.58,EUR,0
+1000000466,2026-10-12 00:26:48,676359162630,Visa,Derek Barker,"Shepherd, Downs and Bowers Inc",Retail,112.57,CAD,0
+1000000467,2026-10-11 21:36:27,4633128282263769759,Discover,John Mack,"Lopez, Elliott and Montgomery Inc",Entertainment,67.9,GBP,0
+1000000468,2026-10-11 22:39:22,2512452376131702,Discover,Jeremiah Ibarra,Schwartz LLC LLC,Groceries,137.46,GBP,0
+1000000469,2026-10-12 00:29:27,4225883976745224,AMEX,Donald Stanley,"Moore, Norris and Hayes Store",Travel,35.39,USD,0
+1000000470,2026-10-11 21:30:10,3532932806481334,AMEX,Thomas Guzman,Villegas-Roberts LLC,Groceries,111.27,USD,0
+1000000471,2026-10-12 00:23:22,3518987662240578,AMEX,Sarah Larsen,Williams Group Inc,Travel,42.28,GBP,0
+1000000472,2026-10-11 19:17:26,36189741544083,AMEX,David Pena,Gomez-Morrison Store,Retail,135.66,GBP,0
+1000000473,2026-10-11 23:14:09,4839048329947,AMEX,James Camacho,Ramirez PLC Store,Gas,81.11,USD,0
+1000000474,2026-10-11 19:17:52,2235470337869034,Discover,Jeremy Hines,Knight-Watson Inc,Travel,98.17,EUR,0
+1000000475,2026-10-11 21:32:40,676252056020,Visa,Lisa Murphy,Young PLC Inc,Gas,79.07,GBP,0
+1000000476,2026-10-12 01:15:18,3573975435913326,Discover,Laurie Fisher,Anderson-Palmer Store,Travel,23.56,EUR,0
+1000000477,2026-10-12 00:12:40,572447798834,Discover,Bruce Hooper,Howard-Williams Inc,Travel,68.19,USD,0
+1000000478,2026-10-12 01:09:16,4067181494623895,Visa,Stacey Gates,"Mullen, Coleman and Mason LLC",Retail,145.98,GBP,0
+1000000479,2026-10-12 01:18:12,501809328484,Discover,Darren Conner,Vasquez Ltd Store,Retail,35.08,GBP,0
+1000000480,2026-10-11 23:43:10,4596740329549383,Discover,Michael Thompson,Snyder-Harris LLC,Groceries,129.64,USD,0
+1000000481,2026-10-11 20:15:30,346049785340217,Mastercard,Tamara Mullen,Rhodes-Smith Store,Travel,143.6,GBP,0
+1000000482,2026-10-11 18:55:30,4494135547886969,Discover,Thomas Wood III,Miller LLC LLC,Travel,24.78,CAD,0
+1000000483,2026-10-12 00:01:34,4534538669232890,Discover,Lisa Lynch,"Lopez, Reed and Smith LLC",Travel,128.3,CAD,0
+1000000484,2026-10-12 01:39:10,3533541505340755,Mastercard,Ashley Moore,Prince LLC Store,Retail,34.58,EUR,0
+1000000485,2026-10-12 00:03:10,4263669802324,Visa,Douglas Wolf,Garcia-Turner Inc,Travel,24.88,GBP,0
+1000000486,2026-10-11 21:13:52,2708051363163035,Visa,Tyler Acosta,Allen-Harper Inc,Entertainment,87.37,EUR,0
+1000000487,2026-10-11 20:09:23,3572572949911499,Visa,Derek Wilson,Rocha Group LLC,Travel,67.06,EUR,0
+1000000488,2026-10-12 00:46:14,4499191005185936,AMEX,Kimberly Drake,Huerta LLC LLC,Entertainment,103.77,CAD,0
+1000000489,2026-10-11 19:45:34,3589068587068396,Visa,Linda Owens,Jones-Lynch Inc,Retail,81.42,GBP,0
+1000000490,2026-10-12 00:23:30,4363181902572420707,Visa,Jose Williams,"Jones, Acosta and Moore Store",Retail,83.26,USD,0
+1000000491,2026-10-11 19:37:55,4142749726967683,AMEX,Mary Mercer,"Johnson, Perez and Moody Inc",Retail,77.08,EUR,0
+1000000492,2026-10-11 23:52:22,4442645866195,Visa,Jocelyn Frost,"Montgomery, Faulkner and Daniel LLC",Entertainment,44.92,CAD,0
+1000000493,2026-10-11 22:55:37,4240765023446705209,Visa,James Rodriguez,Reyes-Jackson LLC,Retail,68.52,GBP,0
+1000000494,2026-10-11 21:58:38,2652544430271142,Mastercard,Amber Chandler,"Welch, Ramirez and Watson Inc",Gas,23.73,GBP,0
+1000000495,2026-10-11 23:29:55,4649410380868889536,Mastercard,Daniel Leblanc,Nguyen-Adams Store,Travel,31.04,USD,0
+1000000496,2026-10-11 19:14:22,4526857649570934,AMEX,Mr. Matthew Johnson,Armstrong Group Inc,Entertainment,36.61,EUR,0
+1000000497,2026-10-11 19:47:42,36506361654589,Mastercard,Kelly Fisher,Lara and Sons Store,Travel,85.33,USD,0
+1000000498,2026-10-11 19:23:04,213153857208540,AMEX,Rachel Valdez,"Andrews, Martinez and Williams Inc",Groceries,32.27,EUR,0
+1000000499,2026-10-12 01:29:13,502025499877,AMEX,Troy Bauer,Cabrera PLC LLC,Entertainment,73.41,USD,0
